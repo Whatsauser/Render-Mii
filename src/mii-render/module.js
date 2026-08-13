@@ -1,0 +1,1 @@
+module.exports = { Mii: require('./main') };

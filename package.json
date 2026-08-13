@@ -1,0 +1,30 @@
+{
+  "name": "render-mii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Whatsauser/Render-Mii.git"
+  },
+  "keywords": [],
+  "author": "Whatsauser",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^5.2.1",
+    "express-rate-limit": "^8.6.2",
+    "express-subdomain": "^1.0.6",
+    "fs-extra": "^11.4.0",
+    "https": "^1.0.0",
+    "miijs": "^3.1.0",
+    "morgan": "^1.11.0",
+    "path": "^0.12.7",
+    "rate-limit-redis": "^6.0.1",
+    "redis": "^6.2.1",
+    "sharp": "^0.35.3"
+  }
+}
