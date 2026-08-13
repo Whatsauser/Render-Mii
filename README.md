@@ -2,6 +2,10 @@
 This code is a simple script made using MiiJS, you can use Mii base64 data or a SNID (Samtendo Network ID).
 
 ## Setup
+Clone this repo
+```js
+git clone https://github.com/Whatsauser/Render-Mii
+```
 run npm i to install dependencies
 ```js
 npm i
